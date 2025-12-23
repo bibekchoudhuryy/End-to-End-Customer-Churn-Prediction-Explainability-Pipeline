@@ -1,0 +1,16 @@
+,features,importances
+1,num__tenure,0.034492547906316486
+18,cat__OnlineSecurity_No,0.03286018452803402
+7,cat__Partner_Yes,0.029382540809084413
+23,cat__OnlineBackup_Yes,0.0265436479772888
+39,cat__PaperlessBilling_No,0.025479063165365457
+4,cat__gender_Female,0.025266146202980788
+21,cat__OnlineBackup_No,0.024982256919801216
+20,cat__OnlineSecurity_Yes,0.0237757274662881
+6,cat__Partner_No,0.023633782824698312
+5,cat__gender_Male,0.02278211497515963
+36,cat__Contract_Month-to-month,0.022640170333569853
+40,cat__PaperlessBilling_Yes,0.021930447125620943
+24,cat__DeviceProtection_No,0.019162526614620246
+33,cat__StreamingMovies_No,0.014407381121362629
+26,cat__DeviceProtection_Yes,0.012065294535131254
